@@ -31,4 +31,4 @@ The results are as follow :
 |Support Vector classifier with TfidfVectorizer and additional feature|0.958
 |Naive Bayes classifier with TfidfVectorizer|0.942
 
-The best algorithm is found to be logistic regrssion classifier with CountVectorizer and adding new features.
+The best algorithm is found to be logistic regression classifier with CountVectorizer and adding new features.
